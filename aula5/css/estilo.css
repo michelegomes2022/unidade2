@@ -1,0 +1,26 @@
+#total{
+    width: 960px;
+    height: auto;
+    margin: auto;/*centraliza a divisão na pagina*/
+}
+#topo{
+    width: 960px;
+    height: auto;
+    float: left;
+    background-color: aqua;
+}
+#logo{
+    width: 200px;
+    height: 60px;
+    /*margin:10px
+    top ring bottom left*/
+    margin: 10px auto;
+    background-color:#ccc
+}
+#banner{
+    width: 960px;
+    height: auto;
+    float: left;
+    background-imagem: url("../imagem/banner.jpg");
+}
+
